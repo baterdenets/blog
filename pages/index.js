@@ -25,6 +25,7 @@ export default function Home() {
           This is a {variant} alert—check it out!
         </Alert>
       ))}
+      ene bol test
     </div>
   )
 }
